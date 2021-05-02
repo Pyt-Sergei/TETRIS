@@ -1,0 +1,6 @@
+K_UP - rotate
+K_1 - music pause
+K_2 - music unpause
+K_3 - set volume
+K_DOWN - fast falling
+K_LEFT, K_RIGHT - moving
